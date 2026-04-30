@@ -1,0 +1,23 @@
+{{ $page := .Page }}
+{{ $policy := .Policy | default "default" }}
+{{ $hasExplicitImage := or (isset $page.Params "page_image") (isset $page.Params "top_image") (isset $page.Params "contextual_image") }}
+{{ $src := "" }}
+{{ if isset $page.Params "page_image" }}
+  {{ $src = $page.Params.page_image }}
+{{ else if isset $page.Params "top_image" }}
+  {{ $src = $page.Params.top_image }}
+{{ else if isset $page.Params "contextual_image" }}
+  {{ $src = $page.Params.contextual_image }}
+{{ end }}
+{{ if and (eq $policy "default") (not $src) }}
+  {{ if not $hasExplicitImage }}
+    {{ $src = site.Params.images.top_contextual }}
+  {{ end }}
+{{ end }}
+{{ $alt := $page.Params.page_image_alt | default $page.Params.top_image_alt | default $page.Params.contextual_image_alt | default site.Params.images.top_contextual_alt }}
+{{ $path := strings.TrimPrefix "/" $src }}
+{{ if and $src (fileExists (printf "static/%s" $path)) }}
+<section class="page-image">
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+</section>
+{{ end }}

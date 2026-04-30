@@ -1,0 +1,43 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ $metaTitle := .Params.meta_title | default .Params.metaTitle | default (printf "%s | %s" .Title .Site.Title) }}
+{{ $description := .Params.description | default .Summary | default .Site.Params.description }}
+<title>{{ $metaTitle }}</title>
+{{ with $description }}<meta name="description" content="{{ . | plainify }}">{{ end }}
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:title" content="{{ $metaTitle }}">
+{{ with $description }}<meta property="og:description" content="{{ . | plainify }}">{{ end }}
+<meta property="og:url" content="{{ .Permalink }}">
+{{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+{{ with .Params.image_alt }}<meta property="og:image:alt" content="{{ . }}">{{ end }}
+<meta name="twitter:card" content="summary_large_image">
+{{ if site.Params.enable_french_links }}
+  {{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+  {{ end }}
+{{ else }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ site.BaseURL }}">
+{{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "name": "Philippe Jacquet & Associates",
+  "url": "{{ site.BaseURL }}",
+  "telephone": "{{ site.Params.phone }}",
+  "email": "{{ site.Params.email }}",
+  "description": {{ $description | plainify | jsonify }},
+  "priceRange": "GBP",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Harley Street",
+    "addressLocality": "London",
+    "postalCode": "W1",
+    "addressCountry": "GB"
+  }
+}
+</script>

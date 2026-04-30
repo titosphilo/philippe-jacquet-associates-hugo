@@ -1,0 +1,8 @@
+{{ $cards := .cards | default . }}
+{{ with $cards }}
+<div class="service-card-grid">
+  {{ range . }}
+    {{ partial "service-card.html" . }}
+  {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,253 @@
+{{ $pageType := .pageType | default .Page.Type }}
+{{ $eyebrow := .Page.Params.eyebrow | default .Page.Params.language | default $pageType }}
+{{ $intro := .Page.Params.intro }}
+{{ $quote := .Page.Params.quote }}
+{{ $faq := .Page.Params.faq }}
+{{ $cta := .Page.Params.cta }}
+{{ $content := .Content | default .Page.Content }}
+{{ $serviceBoxes := .Page.Params.service_boxes | default .Page.Params.serviceBoxes }}
+{{ $submenuLinks := .Page.Params.submenu_links | default .Page.Params.submenuLinks }}
+{{ $relatedServices := .Page.Params.related_services | default .Page.Params.relatedServices }}
+{{ $relatedLocations := .Page.Params.related_locations | default .Page.Params.relatedLocations }}
+{{ $credentials := .Page.Params.credentials | default .Page.Params.trust }}
+{{ $isFrench := eq .Page.Language.Lang "fr" }}
+{{ $pageTypeLabel := .Page.Params.page_type_label | default (humanize $pageType) }}
+{{ $faqHeading := .Page.Params.faq_heading | default (cond $isFrench "Questions frequentes" "Frequently asked questions") }}
+{{ $relatedHeading := .Page.Params.related_heading | default (cond $isFrench "Informations associees" "Related information") }}
+{{ $relatedServicesHeading := .Page.Params.related_services_heading | default (cond $isFrench "Services associes" "Related services") }}
+{{ $relatedLocationsHeading := .Page.Params.related_locations_heading | default (cond $isFrench "Lieux associes" "Related locations") }}
+{{ $ctaLabel := cond $isFrench "Prendre contact" "Make an enquiry" }}
+{{ $isHarleyStreet := eq .Page.RelPermalink "/harley-street/" }}
+{{ $isBermondsey := eq .Page.RelPermalink "/bermondsey/" }}
+{{ $defaultImagePolicy := cond (or (eq $pageType "location-service") (eq .Page.Type "blog")) "minimal" "default" }}
+{{ $imagePolicy := .Page.Params.image_policy | default $defaultImagePolicy }}
+{{ $topImageSrc := .Page.Params.page_image | default .Page.Params.top_image | default .Page.Params.contextual_image }}
+{{ if and (eq $imagePolicy "default") (not $topImageSrc) }}
+  {{ $topImageSrc = site.Params.images.top_contextual }}
+{{ end }}
+{{ $harleyTreatmentCards := slice
+  (dict "title" "Trauma & EMDR" "text" "EMDR practitioner with over 20 years' experience. Complex trauma and PTSD." "url" "/trauma-therapy-london/")
+  (dict "title" "Eating Disorders" "text" "All presentations. Only European DProf on male eating disorders." "url" "/eating-disorders/")
+  (dict "title" "Addictions" "text" "Hazelden trained. Alcohol, cocaine, gambling, sex." "url" "/addiction-specialist-london/")
+  (dict "title" "Depression" "text" "Jungian and integrative approach." "url" "/depression-therapy-london/")
+  (dict "title" "Anxiety & Stress" "text" "Integrative psychotherapy and EMDR." "url" "/anxiety-therapy-london/")
+  (dict "title" "Bereavement" "text" "For grief that hasn't resolved on its own." "url" "/bereavement-counselling-london/")
+}}
+
+{{ if $isBermondsey }}
+<article class="longform-page longform-page--simple longform-page--{{ $pageType }}">
+  <div class="container">
+    <div class="page-content">
+      {{ $content }}
+    </div>
+  </div>
+</article>
+{{ else }}
+<article class="longform-page longform-page--{{ $pageType }}">
+  <header class="page-hero">
+    <div class="container page-hero__inner">
+      <p class="eyebrow">{{ $eyebrow }}</p>
+      <h1>{{ .Page.Params.h1 | default .Page.Title }}</h1>
+      {{ with .Page.Params.summary | default .Page.Params.hero_text | default .Page.Description }}
+      <p class="page-hero__summary">{{ . }}</p>
+      {{ end }}
+    </div>
+  </header>
+
+  <div class="section page-content">
+    <div class="container page-content__grid">
+      <aside class="page-content__meta" aria-label="Page context">
+        <span>{{ $pageTypeLabel }}</span>
+      </aside>
+
+      <div class="page-content__main">
+        {{ with $intro }}
+          {{ if reflect.IsMap . }}
+          <section class="page-intro">
+            {{ with .heading }}<h2>{{ . }}</h2>{{ end }}
+            {{ with .text }}<p>{{ . }}</p>{{ end }}
+          </section>
+          {{ else }}
+          <section class="page-intro">
+            <p>{{ . }}</p>
+          </section>
+          {{ end }}
+        {{ end }}
+
+        {{ if $isHarleyStreet }}
+        <div class="article-body article-body--readable">
+          <p>Harley Street has been synonymous with private medicine and specialist psychological care in London for over a century. Dr Jacquet's practice has been located here since 2002. This is where the main practice is based - in discreet, accessible premises, just steps from Regent's Park.</p>
+          <p>The practice offers integrative psychotherapy and Jungian analysis, EMDR therapy, clinical hypnotherapy, art therapy, and executive coaching. Consultations are conducted in English and French.</p>
+        </div>
+
+        {{ partial "page-image.html" (dict "Page" .Page "Policy" $imagePolicy) }}
+
+        <div class="article-body article-body--readable">
+          <h2>A Specialist Practice</h2>
+          <p>Dr Jacquet is an integrative psychotherapist and Jungian analyst with over 25 years of clinical experience in London and internationally. He is an EMDR practitioner with over 20 years' experience, a qualified art therapist, and a specialist in addictions trained at Hazelden Foundation and Hope-One. He holds a Doctorate of Professional Practice - the only practitioner in Europe with doctoral research specifically on male eating disorders. He trained in executive coaching at ESSEC, ranked among the top 10 European business schools by the Financial Times.</p>
+        </div>
+
+        <section class="page-section service-box-section" aria-labelledby="harley-treatment-heading">
+          <h2 id="harley-treatment-heading">What We Treat</h2>
+          {{ partial "service-card-grid.html" (dict "cards" $harleyTreatmentCards) }}
+        </section>
+
+        <section class="page-section getting-started article-body article-body--readable">
+          <h2>Getting Started</h2>
+          <p>The first step is an initial consultation - a conversation in which you can talk about what brings you here and assess whether this practice is the right place to continue. There is no obligation. Confidentiality is absolute.</p>
+        </section>
+
+        {{ partial "bottom-image.html" (dict "Page" .Page "Policy" $imagePolicy "TopSrc" $topImageSrc) }}
+
+        <section class="page-section page-cta">
+          <a class="button button--dark" href="/contact/">Book an Appointment</a>
+        </section>
+        {{ else }}
+        {{ partial "page-image.html" (dict "Page" .Page "Policy" $imagePolicy) }}
+
+        <div class="article-body article-body--readable">
+          {{ $content }}
+        </div>
+        {{ end }}
+
+        {{ if and .Page.Params.faq_before_services $faq }}
+          {{ $items := $faq }}
+          {{ if reflect.IsMap $faq }}
+            {{ $items = $faq.items }}
+          {{ end }}
+          {{ with $items }}
+          <section class="page-section page-faq" aria-labelledby="faq-heading">
+            <h2 id="faq-heading">{{ $faqHeading }}</h2>
+            <div class="faq-list">
+              {{ range . }}
+              <details>
+                <summary>{{ .question }}</summary>
+                <p>{{ .answer }}</p>
+              </details>
+              {{ end }}
+            </div>
+          </section>
+          {{ end }}
+        {{ end }}
+
+        {{ with $serviceBoxes }}
+        <section class="page-section service-box-section" aria-labelledby="service-box-heading">
+          <h2 id="service-box-heading">{{ $.Page.Params.service_boxes_heading | default "Services" }}</h2>
+          {{ partial "service-card-grid.html" (dict "cards" .) }}
+        </section>
+        {{ end }}
+
+        {{ with $submenuLinks }}
+        <section class="page-section submenu-link-section" aria-labelledby="submenu-link-heading">
+          <h2 id="submenu-link-heading">{{ $.Page.Params.submenu_heading | default "Related pages" }}</h2>
+          <div class="related-list">
+            {{ range . }}
+            <a href="{{ .url }}"{{ if eq $.Page.RelPermalink .url }} aria-current="page"{{ end }}>
+              <span>{{ .title }}</span>
+              {{ with .text }}<small>{{ . }}</small>{{ end }}
+            </a>
+            {{ end }}
+          </div>
+        </section>
+        {{ end }}
+
+        {{ with $quote }}
+        <aside class="page-quote">
+          <blockquote>{{ . }}</blockquote>
+        </aside>
+        {{ end }}
+
+        {{ with $relatedServices }}
+        <section class="page-section related-section" aria-labelledby="related-services-heading">
+          <h2 id="related-services-heading">{{ $relatedServicesHeading }}</h2>
+          <div class="related-list">
+            {{ range . }}
+            <a href="{{ .url }}">
+              <span>{{ .label | default .title }}</span>
+              {{ with .text }}<small>{{ . }}</small>{{ end }}
+            </a>
+            {{ end }}
+          </div>
+        </section>
+        {{ end }}
+
+        {{ with $credentials }}
+          {{ if reflect.IsMap . }}
+          <section class="page-section trust-section" aria-labelledby="trust-heading">
+            {{ with .heading }}<h2 id="trust-heading">{{ . }}</h2>{{ end }}
+            {{ with .text }}<p>{{ . | markdownify }}</p>{{ end }}
+            {{ with .items }}
+            <div class="related-list">
+              {{ range . }}
+              <span>{{ . }}</span>
+              {{ end }}
+            </div>
+            {{ end }}
+          </section>
+          {{ else }}
+          <section class="page-section trust-section" aria-labelledby="trust-heading">
+            <h2 id="trust-heading">{{ cond $isFrench "References cliniques" "Credentials and trust" }}</h2>
+            <p>{{ . | markdownify }}</p>
+          </section>
+          {{ end }}
+        {{ end }}
+
+        {{ with $relatedLocations }}
+        <section class="page-section related-section" aria-labelledby="related-locations-heading">
+          <h2 id="related-locations-heading">{{ $relatedLocationsHeading }}</h2>
+          <div class="related-list">
+            {{ range . }}
+            <a href="{{ .url }}">
+              <span>{{ .label | default .title }}</span>
+              {{ with .text }}<small>{{ . }}</small>{{ end }}
+            </a>
+            {{ end }}
+          </div>
+        </section>
+        {{ end }}
+
+        {{ if not .Page.Params.faq_before_services }}
+          {{ with $faq }}
+            {{ $items := . }}
+            {{ if reflect.IsMap . }}
+              {{ $items = .items }}
+            {{ end }}
+            {{ with $items }}
+            <section class="page-section page-faq" aria-labelledby="faq-heading">
+              <h2 id="faq-heading">{{ $faqHeading }}</h2>
+              <div class="faq-list">
+                {{ range . }}
+                <details>
+                  <summary>{{ .question }}</summary>
+                  <p>{{ .answer }}</p>
+                </details>
+                {{ end }}
+              </div>
+            </section>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        {{ if not $isHarleyStreet }}
+          {{ partial "bottom-image.html" (dict "Page" .Page "Policy" $imagePolicy "TopSrc" $topImageSrc) }}
+        {{ end }}
+
+        {{ with $cta }}
+        <section class="page-section page-cta">
+          {{ if reflect.IsMap . }}
+            {{ with .eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+            {{ with .heading }}<h2>{{ . }}</h2>{{ end }}
+            {{ with .text }}<p>{{ . }}</p>{{ end }}
+            {{ with .url }}
+            <a class="button button--dark" href="{{ . }}">{{ $cta.label | default $ctaLabel }}</a>
+            {{ end }}
+          {{ else }}
+            <a class="button button--dark" href="/contact/">{{ . }}</a>
+          {{ end }}
+        </section>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</article>
+{{ end }}

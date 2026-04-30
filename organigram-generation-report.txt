@@ -1,0 +1,16 @@
+﻿Organigram generation report
+Generated: 2026-04-30 14:59:46
+
+Complete records parsed: 211
+Relative URL records parsed: 211
+Unique URLs parsed: 211
+Generated content files: 210
+Existing URLs skipped: 1
+Duplicate URL groups: 0
+Missing URLs after generation: 0
+
+Duplicate URLs:
+  None
+
+Missing URLs:
+  None

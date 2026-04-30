@@ -1,0 +1,33 @@
+{{ $nav := index site.Data.navigation site.Language.Lang }}
+{{ $international := index $nav.primary 4 }}
+{{ $services := index $nav.primary 5 }}
+<footer class="footer">
+  <div class="container footer__inner">
+    <div>
+      <a class="brand brand--footer" href="{{ site.Home.RelPermalink }}" aria-label="Philippe Jacquet & Associates home">
+        <span>Philippe Jacquet</span>
+        <small>& Associates</small>
+      </a>
+      <p>Specialist psychotherapy, counselling, eating disorder treatment and hypnotherapy from Harley Street and online worldwide.</p>
+    </div>
+    <div>
+      <h2>Locations</h2>
+      <ul>
+        {{ range $international.children }}
+        <li><a href="{{ .url }}">{{ .label }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    <div>
+      <h2>Services</h2>
+      <ul>
+        {{ range $services.children }}
+        <li><a href="{{ .url }}">{{ .label }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+  <div class="container footer__bottom">
+    <span>© {{ now.Year }} Philippe Jacquet & Associates. All rights reserved.</span>
+  </div>
+</footer>

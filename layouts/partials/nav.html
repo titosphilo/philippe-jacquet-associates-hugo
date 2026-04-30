@@ -1,0 +1,56 @@
+{{ $nav := index site.Data.navigation site.Language.Lang }}
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="topbar">
+    <span>Private psychotherapy practice</span>
+    <span>{{ site.Params.phone }}</span>
+  </div>
+  <div class="site-header-inner nav">
+    <a class="brand" href="{{ site.Home.RelPermalink }}" aria-label="Philippe Jacquet & Associates home">
+      <span>Philippe Jacquet</span>
+      <small>& Associates</small>
+    </a>
+    <input class="nav-toggle" id="nav-toggle" type="checkbox" aria-label="Toggle navigation">
+    <label class="nav-button" for="nav-toggle"><span></span></label>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <ul class="nav-menu">
+        {{ range $nav.primary }}
+        {{ if or site.Params.enable_french_links (not (strings.HasPrefix .url "/fr/")) }}
+        <li class="{{ if .children }}has-dropdown{{ end }}">
+          <a href="{{ .url }}"{{ if .children }} aria-haspopup="true" aria-expanded="false"{{ end }}>{{ .label }}</a>
+          {{ with .children }}
+          <ul class="dropdown">
+            {{ range . }}
+            <li><a href="{{ .url }}">{{ .label }}</a></li>
+            {{ end }}
+          </ul>
+          {{ end }}
+        </li>
+        {{ end }}
+        {{ end }}
+      </ul>
+    </nav>
+    {{/* Language switcher temporarily hidden until French pages are ready.
+    <nav class="lang-switch" aria-label="Language switcher">
+      {{ range site.Languages }}
+        {{ $targetLang := .Lang }}
+        {{ $translation := "" }}
+        {{ range $.AllTranslations }}
+          {{ if eq .Language.Lang $targetLang }}
+            {{ $translation = . }}
+          {{ end }}
+        {{ end }}
+        {{ if $translation }}
+          <a href="{{ $translation.RelPermalink }}"{{ if eq $.Language.Lang $targetLang }} aria-current="page"{{ end }}>{{ upper $targetLang }}</a>
+        {{ else }}
+          {{ range site.Home.AllTranslations }}
+            {{ if eq .Language.Lang $targetLang }}
+              <a href="{{ .RelPermalink }}">{{ upper $targetLang }}</a>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </nav>
+    */}}
+  </div>
+</header>

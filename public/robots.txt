@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.philippejacquet.co.uk/sitemap.xml

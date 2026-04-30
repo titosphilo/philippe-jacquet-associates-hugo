@@ -1,0 +1,1364 @@
+################################################################################
+#                                                                              #
+#                   COMPLETE SITE ORGANIGRAM - MASTER FILE                   #
+#                         www.philippejacquet.co.uk                          #
+#                                                                              #
+################################################################################
+
+Generated: 2026-04-30
+Total Pages: 212 English pages
+French Pages: 113 (mirror structure)
+TOTAL: 325 URLs
+
+================================================================================
+                              SITE OVERVIEW
+================================================================================
+
+HOME: 1 page
+TOP-LEVEL PAGES (Parents): 50 pages
+SUBMENU PAGES (Children): 161 pages
+────────────────────────────────────────────────
+TOTAL: 212 pages
+
+Breakdown by Type:
+  • Locations: 6 offices (142 pages including submenus)
+  • Services: 40+ pages
+  • Blog/Resources: 20+ pages
+  • Core Pages: 8 pages
+  • Other: ~82 pages
+
+================================================================================
+                        COMPLETE PAGE DIRECTORY
+================================================================================
+
+
+################################################################################
+# 1. HOME
+################################################################################
+
+[1] PARENT PAGE
+     Title: Psychotherapist London | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/
+     Slug: home
+
+     (No submenu pages)
+
+################################################################################
+# 2. A-SIMPLE-EXPLANATION-OF-ANALYTICAL-PSYCHOLOGY
+################################################################################
+
+[2] PARENT PAGE
+     Title: Psychotherapist London | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/a-simple-explanation-of-analytical-psychology/
+     Slug: a-simple-explanation-of-analytical-psychology
+
+     (No submenu pages)
+
+################################################################################
+# 3. ABOUT-US
+################################################################################
+
+[3] PARENT PAGE
+     Title: About Philippe Jacquet | Jungian Analyst | Addiction & Eating Disorder Specialist
+     URL: https://www.philippejacquet.co.uk/about-us/
+     Slug: about-us
+
+     (No submenu pages)
+
+################################################################################
+# 4. ADDICTION-COUNSELLING
+################################################################################
+
+[4] PARENT PAGE
+     Title: Addiction Counselling Harley Street | Lived Experience | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/addiction-counselling/
+     Slug: addiction-counselling
+
+     (No submenu pages)
+
+################################################################################
+# 5. ADDICTION-SPECIALIST-LONDON
+################################################################################
+
+[5] PARENT PAGE
+     Title: Addiction Specialist London | Lived Experience | Hazelden Trained | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/addiction-specialist-london/
+     Slug: addiction-specialist-london
+
+     (No submenu pages)
+
+################################################################################
+# 6. ART-THERAPY-IN-CENTRAL-LONDON
+################################################################################
+
+[6] PARENT PAGE
+     Title: Art Therapy Central London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/art-therapy-in-central-london/
+     Slug: art-therapy-in-central-london
+
+     (No submenu pages)
+
+################################################################################
+# 7. BERMONDSEY-THERAPY-SERVICES
+################################################################################
+
+[7] PARENT PAGE
+     Title: Therapist Bermondsey SE1 | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/bermondsey-therapy-services/
+     Slug: bermondsey-therapy-services
+
+     SUBMENU PAGES (9)
+     ----------------------------------------------------------------------------
+
+[8] Addiction Counselling Bermondsey | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/bermondsey-therapy-services/confidential-addiction-counselling-in-bermondsey/
+     Slug: bermondsey-therapy-services/confidential-addiction-counselling-in-bermondsey
+
+[9] Anorexia Treatment Bermondsey | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/bermondsey-therapy-services/treatment-for-anorexia/
+     Slug: bermondsey-therapy-services/treatment-for-anorexia
+
+[10] Art Therapy for Addiction London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/bermondsey-therapy-services/art-therapy-in-addiction-and-eating-disorder-recovery/
+     Slug: bermondsey-therapy-services/art-therapy-in-addiction-and-eating-disorder-recovery
+
+[11] Bereavement Counselling London | Grief Therapy Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/bermondsey-therapy-services/bereavement-counselling-bermondsey/
+     Slug: bermondsey-therapy-services/bereavement-counselling-bermondsey
+
+[12] EMDR Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/bermondsey-therapy-services/emdr/
+     Slug: bermondsey-therapy-services/emdr
+
+[13] Overeating Counselling Bermondsey | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/bermondsey-therapy-services/overeating-counselling/
+     Slug: bermondsey-therapy-services/overeating-counselling
+
+[14] Sex Addiction Counselling Bermondsey | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/bermondsey-therapy-services/sex-addiction-counselling/
+     Slug: bermondsey-therapy-services/sex-addiction-counselling
+
+[15] Therapy Fees Bermondsey | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/bermondsey-therapy-services/fees-and-terms/
+     Slug: bermondsey-therapy-services/fees-and-terms
+
+[16] Your First Therapy Session | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/bermondsey-therapy-services/your-first-psychotherapy-session-at-bermondsey-office/
+     Slug: bermondsey-therapy-services/your-first-psychotherapy-session-at-bermondsey-office
+
+
+################################################################################
+# 8. BLOG
+################################################################################
+
+[17] PARENT PAGE
+     Title: Writing & Research | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/blog/
+     Slug: blog
+
+     SUBMENU PAGES (1)
+     ----------------------------------------------------------------------------
+
+[18] Counselling London | Trauma, Addiction, Depression, Anxiety
+     URL: https://www.philippejacquet.co.uk/blog/page/2/
+     Slug: blog/page/2
+
+
+################################################################################
+# 9. BRUSSELS
+################################################################################
+
+[19] PARENT PAGE
+     Title: English-Speaking Psychologist Brussels | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/brussels/
+     Slug: brussels
+
+     SUBMENU PAGES (7)
+     ----------------------------------------------------------------------------
+
+[20] Addiction Counselling Brussels | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/brussels/addiction-counselling/
+     Slug: brussels/addiction-counselling
+
+[21] Anxiety & Depression Therapy Brussels | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/brussels/depression-counselling-brussels/
+     Slug: brussels/depression-counselling-brussels
+
+[22] Bereavement Therapy Brussels | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/brussels/about-our-brussels-office/
+     Slug: brussels/about-our-brussels-office
+
+[23] Eating Disorder Treatment Brussels | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/brussels/eating-disorder-treatment-in-brussels/
+     Slug: brussels/eating-disorder-treatment-in-brussels
+
+[24] Expat Therapy Brussels | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/brussels/psychotherapy-workshops-brussels/
+     Slug: brussels/psychotherapy-workshops-brussels
+
+[25] Sex Addiction Counselling Brussels | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/brussels/sex-addiction-counselling/
+     Slug: brussels/sex-addiction-counselling
+
+[26] Therapy Fees Brussels | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/brussels/fees-and-terms/
+     Slug: brussels/fees-and-terms
+
+
+################################################################################
+# 10. CENTRAL-LONDON
+################################################################################
+
+[27] PARENT PAGE
+     Title: Psychotherapy Central London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/central-london/
+     Slug: central-london
+
+     SUBMENU PAGES (8)
+     ----------------------------------------------------------------------------
+
+[28] Addiction Counselling London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/central-london/central-london-addiction-counsellor/
+     Slug: central-london/central-london-addiction-counsellor
+
+[29] Art Therapy Central London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/central-london/art-therapy-in-central-london/
+     Slug: central-london/art-therapy-in-central-london
+
+[30] Eating Disorder Treatment Central London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/central-london/central-london-eating-disorders-bulimia-and-anorexia-treatment/
+     Slug: central-london/central-london-eating-disorders-bulimia-and-anorexia-treatment
+
+[31] Executive Coaching Central London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/central-london/maximizing-potential-through-executive-coaching/
+     Slug: central-london/maximizing-potential-through-executive-coaching
+
+[32] Fees & Terms | Central London Psychotherapy | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/central-london/fees-and-terms/
+     Slug: central-london/fees-and-terms
+
+[33] Hypnotherapy Central London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/central-london/hypnotherapy-services-in-london-uk/
+     Slug: central-london/hypnotherapy-services-in-london-uk
+
+[34] Psychotherapy Central London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/central-london/central-london-couple-counselling-therapist/
+     Slug: central-london/central-london-couple-counselling-therapist
+
+[35] Trauma Counselling Central London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/central-london/trauma-counselling-in-central-london/
+     Slug: central-london/trauma-counselling-in-central-london
+
+
+################################################################################
+# 11. CEO-EXECUTIVE-COACHING-JUNGIAN-ANALYSIS
+################################################################################
+
+[36] PARENT PAGE
+     Title: The CEO Who Came for Coaching and Needed Something Else | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/ceo-executive-coaching-jungian-analysis/
+     Slug: ceo-executive-coaching-jungian-analysis
+
+     (No submenu pages)
+
+################################################################################
+# 12. CHIRON-HERMES-JUNGIAN-ANALYSIS-REFLECTION
+################################################################################
+
+[37] PARENT PAGE
+     Title: Chiron, Hermes and the Work of Jungian Analysis | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/chiron-hermes-jungian-analysis-reflection/
+     Slug: chiron-hermes-jungian-analysis-reflection
+
+     (No submenu pages)
+
+################################################################################
+# 13. CLINICAL-SUPERVISION-ADDICTION-EATING-DISORDER
+################################################################################
+
+[38] PARENT PAGE
+     Title: Clinical Supervision in Addiction and Eating Disorder Work | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/clinical-supervision-addiction-eating-disorder/
+     Slug: clinical-supervision-addiction-eating-disorder
+
+     (No submenu pages)
+
+################################################################################
+# 14. CLINICAL-SUPERVISION-LONDON
+################################################################################
+
+[39] PARENT PAGE
+     Title: Clinical Supervision London | Addiction & Eating Disorder | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/clinical-supervision-london/
+     Slug: clinical-supervision-london
+
+     (No submenu pages)
+
+################################################################################
+# 15. CLINICAL-SUPERVISION-WHAT-IT-IS-WHY-IT-MATTERS
+################################################################################
+
+[40] PARENT PAGE
+     Title: Clinical Supervision London | Harley Street | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/clinical-supervision-what-it-is-why-it-matters/
+     Slug: clinical-supervision-what-it-is-why-it-matters
+
+     (No submenu pages)
+
+################################################################################
+# 16. CLINICAL-SUPERVISOR-LONDON
+################################################################################
+
+[41] PARENT PAGE
+     Title: Clinical Supervisor London | Jungian Analyst | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/clinical-supervisor-london/
+     Slug: clinical-supervisor-london
+
+     (No submenu pages)
+
+################################################################################
+# 17. CODEPENDENCY-SIGNS-AND-TREATMENT
+################################################################################
+
+[42] PARENT PAGE
+     Title: Codependency — Signs & Treatment | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/codependency-signs-and-treatment/
+     Slug: codependency-signs-and-treatment
+
+     (No submenu pages)
+
+################################################################################
+# 18. COLCHESTER
+################################################################################
+
+[43] PARENT PAGE
+     Title: Psychotherapy Colchester Essex | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/colchester/
+     Slug: colchester
+
+     SUBMENU PAGES (10)
+     ----------------------------------------------------------------------------
+
+[44] Addiction Counselling Colchester | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/colchester/help-with-addiction-counselling/
+     Slug: colchester/help-with-addiction-counselling
+
+[45] Bereavement Counselling Colchester | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/colchester/bereavement/
+     Slug: colchester/bereavement
+
+[46] Clinical Supervision Colchester | Jungian Analyst | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/colchester/supervision/
+     Slug: colchester/supervision
+
+[47] Counselling Colchester Essex | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/colchester/counselling-colchester-essex/
+     Slug: colchester/counselling-colchester-essex
+
+[48] Eating Disorder Therapy Colchester | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/colchester/help-with-eating-disorders-anorexia-bulimia/
+     Slug: colchester/help-with-eating-disorders-anorexia-bulimia
+
+[49] Jungian Analysis Colchester | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/colchester/analysis/
+     Slug: colchester/analysis
+
+[50] Sex Addiction Counselling Colchester | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/colchester/sex-addiction/
+     Slug: colchester/sex-addiction
+
+[51] Stress Counselling Colchester | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/colchester/stress/
+     Slug: colchester/stress
+
+[52] Therapy Fees Colchester | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/colchester/fees-and-terms/
+     Slug: colchester/fees-and-terms
+
+[53] Trauma Counselling Colchester | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/colchester/trauma-counselling/
+     Slug: colchester/trauma-counselling
+
+
+################################################################################
+# 19. CONTACT
+################################################################################
+
+[54] PARENT PAGE
+     Title: Contact Philippe Jacquet | Book an Initial Consultation
+     URL: https://www.philippejacquet.co.uk/contact/
+     Slug: contact
+
+     (No submenu pages)
+
+################################################################################
+# 20. CONTACTS
+################################################################################
+
+[55] PARENT PAGE
+     Title: Contact Philippe Jacquet | Book an Initial Consultation
+     URL: https://www.philippejacquet.co.uk/contacts/
+     Slug: contacts
+
+     (No submenu pages)
+
+################################################################################
+# 21. DUBAI
+################################################################################
+
+[56] PARENT PAGE
+     Title: Addiction Treatment Dubai | Bespoke Private | Lived Experience | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/dubai/
+     Slug: dubai
+
+     (No submenu pages)
+
+################################################################################
+# 22. EATING-DISORDER-RECOVERY-HALT-THREE-MEALS
+################################################################################
+
+[57] PARENT PAGE
+     Title: Eating Disorder Recovery: HALT, Three Meals and the Life In Between | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/eating-disorder-recovery-halt-three-meals/
+     Slug: eating-disorder-recovery-halt-three-meals
+
+     (No submenu pages)
+
+################################################################################
+# 23. EATING-DISORDER-RECOVERY-THREE-MEALS-A-DAY
+################################################################################
+
+[58] PARENT PAGE
+     Title: Eating Disorder Recovery: Three Meals a Day | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/eating-disorder-recovery-three-meals-a-day/
+     Slug: eating-disorder-recovery-three-meals-a-day
+
+     (No submenu pages)
+
+################################################################################
+# 24. EATING-DISORDERS-IN-MEN
+################################################################################
+
+[59] PARENT PAGE
+     Title: Eating Disorders in Men | Philippe Jacquet DProf
+     URL: https://www.philippejacquet.co.uk/eating-disorders-in-men/
+     Slug: eating-disorders-in-men
+
+     (No submenu pages)
+
+################################################################################
+# 25. EMDR-THERAPY-LONDON
+################################################################################
+
+[60] PARENT PAGE
+     Title: EMDR Therapy London | 20 Years Experience | Accredited | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/emdr-therapy-london/
+     Slug: emdr-therapy-london
+
+     (No submenu pages)
+
+################################################################################
+# 26. EXECUTIVE-COACHING-LONDON
+################################################################################
+
+[61] PARENT PAGE
+     Title: Executive Coaching London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/executive-coaching-london/
+     Slug: executive-coaching-london
+
+     (No submenu pages)
+
+################################################################################
+# 27. FRENCH-THERAPIST-LONDON
+################################################################################
+
+[62] PARENT PAGE
+     Title: French-Speaking Therapist London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/french-therapist-london/
+     Slug: french-therapist-london
+
+     (No submenu pages)
+
+################################################################################
+# 28. HARLEY-STREET
+################################################################################
+
+[63] PARENT PAGE
+     Title: Psychotherapy at Harley Street - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/harley-street/
+     Slug: harley-street
+
+     SUBMENU PAGES (5)
+     ----------------------------------------------------------------------------
+
+[64] Addiction Counselling Harley Street | Lived Experience | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/harley-street/addiction-counselling/
+     Slug: harley-street/addiction-counselling
+
+[65] Eating Disorder Treatment Harley Street | Philippe Jacquet DProf
+     URL: https://www.philippejacquet.co.uk/harley-street/treatment-for-eating-disorders/
+     Slug: harley-street/treatment-for-eating-disorders
+
+[66] Executive Coaching London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/harley-street/executive-coaching/
+     Slug: harley-street/executive-coaching
+
+[67] Fees & Terms | Harley Street Psychotherapy | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/harley-street/fees-and-terms/
+     Slug: harley-street/fees-and-terms
+
+[68] Jungian Analyst Harley Street | Philippe Jacquet | Depth Analysis
+     URL: https://www.philippejacquet.co.uk/harley-street/jungian-analyst-harley-street/
+     Slug: harley-street/jungian-analyst-harley-street
+
+
+################################################################################
+# 29. JUNGIAN-ANALYST-COLCHESTER
+################################################################################
+
+[69] PARENT PAGE
+     Title: Jungian Analyst Colchester | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/jungian-analyst-colchester/
+     Slug: jungian-analyst-colchester
+
+     (No submenu pages)
+
+################################################################################
+# 30. JUNGIAN-ANALYST-LONDON
+################################################################################
+
+[70] PARENT PAGE
+     Title: Jungian Analyst London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/jungian-analyst-london/
+     Slug: jungian-analyst-london
+
+     (No submenu pages)
+
+################################################################################
+# 31. JUNGIAN-THERAPIST-LONDON
+################################################################################
+
+[71] PARENT PAGE
+     Title: Jungian Therapist London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/jungian-therapist-london/
+     Slug: jungian-therapist-london
+
+     (No submenu pages)
+
+################################################################################
+# 32. LEADERSHIP-COACH-LONDON
+################################################################################
+
+[72] PARENT PAGE
+     Title: Leadership Coach London | Philippe Jacquet | ESSEC Trained
+     URL: https://www.philippejacquet.co.uk/leadership-coach-london/
+     Slug: leadership-coach-london
+
+     (No submenu pages)
+
+################################################################################
+# 33. MALE-EATING-DISORDERS
+################################################################################
+
+[73] PARENT PAGE
+     Title: Male Eating Disorders Therapist London | Lived Experience | DProf | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/male-eating-disorders/
+     Slug: male-eating-disorders
+
+     (No submenu pages)
+
+################################################################################
+# 34. MARBELLA
+################################################################################
+
+[74] PARENT PAGE
+     Title: Psychotherapist Marbella Spain | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/marbella/
+     Slug: marbella
+
+     SUBMENU PAGES (6)
+     ----------------------------------------------------------------------------
+
+[75] Coaching exécutif — Maximiser le potentiel | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/marbella/maximizing-potential-through-executive-coaching/
+     Slug: marbella/maximizing-potential-through-executive-coaching
+
+[76] Counselling Marbella | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/marbella/counselling-and-therapy-services/
+     Slug: marbella/counselling-and-therapy-services
+
+[77] Life Coaching Marbella | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/marbella/marbella-life-coaching-services/
+     Slug: marbella/marbella-life-coaching-services
+
+[78] Therapy Fees Marbella | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/marbella/fees-and-terms/
+     Slug: marbella/fees-and-terms
+
+[79] Therapy Workshops Marbella | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/marbella/marbella-workshops/
+     Slug: marbella/marbella-workshops
+
+[80] Welcome to Marbella Practice | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/marbella/welcome-to-marbella-office/
+     Slug: marbella/welcome-to-marbella-office
+
+
+################################################################################
+# 35. MONACO
+################################################################################
+
+[81] PARENT PAGE
+     Title: Psychotherapy Monaco | Private Bilingual Practice | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/monaco/
+     Slug: monaco
+
+     (No submenu pages)
+
+################################################################################
+# 36. NAIROBI-ONLINE-PSYCHOTHERAPY
+################################################################################
+
+[82] PARENT PAGE
+     Title: Psychotherapy Nairobi | Harley Street Standard Online | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/nairobi-online-psychotherapy/
+     Slug: nairobi-online-psychotherapy
+
+     (No submenu pages)
+
+################################################################################
+# 37. OUR-TEAM
+################################################################################
+
+[83] PARENT PAGE
+     Title: Our Therapists | Philippe Jacquet & Associates London
+     URL: https://www.philippejacquet.co.uk/our-team/
+     Slug: our-team
+
+     (No submenu pages)
+
+################################################################################
+# 38. OUT-OF-REHAB-FIRST-YEAR-CLEAN
+################################################################################
+
+[84] PARENT PAGE
+     Title: Out of Rehab: What the First Year Clean Actually Requires | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/out-of-rehab-first-year-clean/
+     Slug: out-of-rehab-first-year-clean
+
+     (No submenu pages)
+
+################################################################################
+# 39. PRIVACY-POLICY
+################################################################################
+
+[85] PARENT PAGE
+     Title: Privacy Policy | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/privacy-policy/
+     Slug: privacy-policy
+
+     (No submenu pages)
+
+################################################################################
+# 40. PSYCHOTHERAPIST-PARIS
+################################################################################
+
+[86] PARENT PAGE
+     Title: Psychotherapist Paris | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/psychotherapist-paris/
+     Slug: psychotherapist-paris
+
+     (No submenu pages)
+
+################################################################################
+# 41. PSYCHOTHERAPY-AT-HARLEY-STREET
+################################################################################
+
+[87] PARENT PAGE
+     Title: Psychotherapy at Harley Street - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/psychotherapy-at-harley-street/
+     Slug: psychotherapy-at-harley-street
+
+     (No submenu pages)
+
+################################################################################
+# 42. RELAPSE-ACRONYM-PSYCHOLOGICAL-RELAPSE-PREVENTION
+################################################################################
+
+[88] PARENT PAGE
+     Title: Relapse Begins Before You Pick Up: The RELAPSE Acronym | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/relapse-acronym-psychological-relapse-prevention/
+     Slug: relapse-acronym-psychological-relapse-prevention
+
+     (No submenu pages)
+
+################################################################################
+# 43. RELAPSE-NOT-MORAL-FAILURE-CHARACTERISTIC-OF-ADDICTION
+################################################################################
+
+[89] PARENT PAGE
+     Title: Relapse Is Not a Moral Failure — It Is a Characteristic of Addiction | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/relapse-not-moral-failure-characteristic-of-addiction/
+     Slug: relapse-not-moral-failure-characteristic-of-addiction
+
+     (No submenu pages)
+
+################################################################################
+# 44. SERVICE
+################################################################################
+
+[90] PARENT PAGE
+     Title: Therapy & Coaching Services London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/
+     Slug: service
+
+     SUBMENU PAGES (50)
+     ----------------------------------------------------------------------------
+
+[91] Addictive Personality Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/addictive-personality/
+     Slug: service/counselling-useful-articles/addictive-personality
+
+[92] Adolescent Psychotherapy London | Philippe Jacquet Specialist
+     URL: https://www.philippejacquet.co.uk/service/psychotherapy-insights-articles-tips-guidance/adolescent-psychotherapy/
+     Slug: service/psychotherapy-insights-articles-tips-guidance/adolescent-psychotherapy
+
+[93] Art Therapy London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/service/art-therapy-in-central-london/
+     Slug: service/art-therapy-in-central-london
+
+[94] Art Therapy Training & Workshops London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/art-therapy-in-central-london/professional-art-therapy/
+     Slug: service/art-therapy-in-central-london/professional-art-therapy
+
+[95] Bereavement Counselling London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/bereavement-therapy-in-central-london/
+     Slug: service/counselling-useful-articles/bereavement-therapy-in-central-london
+
+[96] Bespoke Executive Coaching London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/business-coach/bespoke-program/
+     Slug: service/business-coach/bespoke-program
+
+[97] Bodywork Therapy London | Shiatsu & Yoga Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/body-work/
+     Slug: service/body-work
+
+[98] Bulimia Treatment London | Philippe Jacquet Specialist
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/bulimia/
+     Slug: service/counselling-useful-articles/bulimia
+
+[99] Child Psychotherapy London | Play Therapy Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/psychotherapy-insights-articles-tips-guidance/child-psychotherapy/
+     Slug: service/psychotherapy-insights-articles-tips-guidance/child-psychotherapy
+
+[100] Cocaine Addiction Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/cocaine-addiction/
+     Slug: service/counselling-useful-articles/cocaine-addiction
+
+[101] Counselling London | Trauma, Addiction, Depression, Anxiety
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/
+     Slug: service/counselling-useful-articles
+
+[102] Depression Counselling London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/depression/
+     Slug: service/counselling-useful-articles/depression
+
+[103] Eating Disorder Treatment London | Philippe Jacquet DProf
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/eating-disorder-treatment/
+     Slug: service/counselling-useful-articles/eating-disorder-treatment
+
+[104] Executive Coaching London | Jungian Analyst & ESSEC Trained | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/business-coach/
+     Slug: service/business-coach
+
+[105] Executive Coaching: Focus & Productivity | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/business-coach/focus/
+     Slug: service/business-coach/focus
+
+[106] Fear of Flying Therapy London | Hypnotherapy Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/hypnotherapy-what-you-should-know/fear-of-flying/
+     Slug: service/hypnotherapy-what-you-should-know/fear-of-flying
+
+[107] Gambling Addiction Counselling London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/central-london-gambling-addiction-counselling/
+     Slug: service/counselling-useful-articles/central-london-gambling-addiction-counselling
+
+[108] Gastric Band Hypnotherapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/hypnotherapy-what-you-should-know/gastric-band/
+     Slug: service/hypnotherapy-what-you-should-know/gastric-band
+
+[109] Hypnotherapy London | Clinical Hypnotherapy Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/hypnotherapy-what-you-should-know/
+     Slug: service/hypnotherapy-what-you-should-know
+
+[110] Hypnotherapy for Confidence London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/hypnotherapy-what-you-should-know/building-confidence/
+     Slug: service/hypnotherapy-what-you-should-know/building-confidence
+
+[111] Hypnotherapy for Procrastination London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/hypnotherapy-what-you-should-know/procrastination/
+     Slug: service/hypnotherapy-what-you-should-know/procrastination
+
+[112] Hypnotherapy to Stop Smoking London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/hypnotherapy-what-you-should-know/stop-smoking/
+     Slug: service/hypnotherapy-what-you-should-know/stop-smoking
+
+[113] Individual Art Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/art-therapy-in-central-london/individual-art-therapy/
+     Slug: service/art-therapy-in-central-london/individual-art-therapy
+
+[114] Leadership Coaching London | Jungian Analyst | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/business-coach/leadership-coaching-london/
+     Slug: service/business-coach/leadership-coaching-london
+
+[115] Low Self-Esteem Therapy London | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/psychotherapy-insights-articles-tips-guidance/low-self-esteem/
+     Slug: service/psychotherapy-insights-articles-tips-guidance/low-self-esteem
+
+[116] Meaning, Purpose & How to Live | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/psychotherapy-insights-articles-tips-guidance/meaning/
+     Slug: service/psychotherapy-insights-articles-tips-guidance/meaning
+
+[117] Midlife Crisis Therapy London | Jungian Analysis Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/psychotherapy-insights-articles-tips-guidance/middle-age-crisis/
+     Slug: service/psychotherapy-insights-articles-tips-guidance/middle-age-crisis
+
+[118] Mindfulness Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/art-therapy-in-central-london/mindfulness/
+     Slug: service/art-therapy-in-central-london/mindfulness
+
+[119] Overeating & Compulsive Eating Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/overeating/
+     Slug: service/counselling-useful-articles/overeating
+
+[120] Phobia Treatment London | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/hypnotherapy-what-you-should-know/phobias/
+     Slug: service/hypnotherapy-what-you-should-know/phobias
+
+[121] Psychological Flexibility & Resilience | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/psychotherapy-insights-articles-tips-guidance/flexibility/
+     Slug: service/psychotherapy-insights-articles-tips-guidance/flexibility
+
+[122] Psychotherapist London | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/addiction-counselling/
+     Slug: service/counselling-useful-articles/addiction-counselling
+
+[123] Psychotherapist London | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/stress-and-anxiety/
+     Slug: service/counselling-useful-articles/stress-and-anxiety
+
+[124] Psychotherapist London | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/eating-disorders/male-eating-disorders/
+     Slug: service/eating-disorders/male-eating-disorders
+
+[125] Psychotherapist London | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/relationship-therapy/
+     Slug: service/counselling-useful-articles/relationship-therapy
+
+[126] Psychotherapist London | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/low-self-esteem/
+     Slug: service/counselling-useful-articles/low-self-esteem
+
+[127] Public Speaking Anxiety London | Hypnotherapy Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/hypnotherapy-what-you-should-know/public-speaking/
+     Slug: service/hypnotherapy-what-you-should-know/public-speaking
+
+[128] Relationship Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/relationship-issues/
+     Slug: service/counselling-useful-articles/relationship-issues
+
+[129] Sand Tray Therapy London | Jungian Sandplay Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/art-therapy-in-central-london/sand-tray-therapy/
+     Slug: service/art-therapy-in-central-london/sand-tray-therapy
+
+[130] Sex Addiction Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/sex-addiction/
+     Slug: service/counselling-useful-articles/sex-addiction
+
+[131] Shiatsu London | Bodywork Therapy Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/body-work/shiatsu/
+     Slug: service/body-work/shiatsu
+
+[132] Spirituality & Psychotherapy | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/psychotherapy-insights-articles-tips-guidance/spirituality/
+     Slug: service/psychotherapy-insights-articles-tips-guidance/spirituality
+
+[133] Sports Performance Coaching | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/hypnotherapy-what-you-should-know/athletes/
+     Slug: service/hypnotherapy-what-you-should-know/athletes
+
+[134] Stress Therapy London | Psychotherapy for Stress Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/stress/
+     Slug: service/counselling-useful-articles/stress
+
+[135] Stress at Work | Executive Coaching Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/business-coach/stress-at-work/
+     Slug: service/business-coach/stress-at-work
+
+[136] Therapeutic Yoga London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/body-work/yoga/
+     Slug: service/body-work/yoga
+
+[137] Therapy & Coaching Services London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/psychotherapy-insights-articles-tips-guidance/
+     Slug: service/psychotherapy-insights-articles-tips-guidance
+
+[138] Trading Psychology Coaching London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/business-coach/trader-vs-gambler/
+     Slug: service/business-coach/trader-vs-gambler
+
+[139] Trauma Therapy London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/service/counselling-useful-articles/trauma/
+     Slug: service/counselling-useful-articles/trauma
+
+[140] Weight Management Hypnotherapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/service/hypnotherapy-what-you-should-know/manage-your-weight/
+     Slug: service/hypnotherapy-what-you-should-know/manage-your-weight
+
+
+################################################################################
+# 45. SERVICES
+################################################################################
+
+
+     SUBMENU PAGES (30)
+     ----------------------------------------------------------------------------
+
+[141] Addictive Personality Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/addictive-personality/
+     Slug: services/addictive-personality
+
+[142] Adolescent Psychotherapy London | Philippe Jacquet Specialist
+     URL: https://www.philippejacquet.co.uk//services/adolescent-psychotherapy/
+     Slug: services/adolescent-psychotherapy
+
+[143] Art Therapy London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk//services/art-therapy/
+     Slug: services/art-therapy
+
+[144] Art Therapy London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk//services/professional-art-therapy/
+     Slug: services/professional-art-therapy
+
+[145] Bereavement Counselling Harley Street | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/bereavement/
+     Slug: services/bereavement
+
+[146] Bespoke Executive Coaching London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/bespoke-program/
+     Slug: services/bespoke-program
+
+[147] Bodywork Therapy London | Shiatsu & Yoga Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/body-work/
+     Slug: services/body-work
+
+[148] Bodywork Therapy London | Shiatsu & Yoga Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/yoga/
+     Slug: services/yoga
+
+[149] Child Psychotherapy London | Play Therapy Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/child-psychotherapy/
+     Slug: services/child-psychotherapy
+
+[150] Cocaine Addiction Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/cocaine-addiction/
+     Slug: services/cocaine-addiction
+
+[151] Executive Coaching London | Jungian Analyst & ESSEC Trained | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/business-coach/
+     Slug: services/business-coach
+
+[152] Executive Coaching: Focus & Productivity | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/focus/
+     Slug: services/focus
+
+[153] Fear of Flying Therapy London | Hypnotherapy Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/fear-of-flying/
+     Slug: services/fear-of-flying
+
+[154] Gambling Addiction Counselling London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/central-london-gambling-addiction-counselling/
+     Slug: services/central-london-gambling-addiction-counselling
+
+[155] Gastric Band Hypnotherapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/gastric-band/
+     Slug: services/gastric-band
+
+[156] Harley Street Hypnotherapy | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/hypnotherapy/
+     Slug: services/hypnotherapy
+
+[157] Hypnotherapy for Confidence London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/building-confidence/
+     Slug: services/building-confidence
+
+[158] Individual Art Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/individual-art-therapy/
+     Slug: services/individual-art-therapy
+
+[159] Low Self-Esteem Therapy London | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/low-self-esteem/
+     Slug: services/low-self-esteem
+
+[160] Meaning, Purpose & How to Live | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/meaning/
+     Slug: services/meaning
+
+[161] Midlife Crisis Therapy London | Jungian Analysis Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/middle-age-crisis/
+     Slug: services/middle-age-crisis
+
+[162] Mindfulness Therapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/mindfulness/
+     Slug: services/mindfulness
+
+[163] Psychological Flexibility & Resilience | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/flexibility/
+     Slug: services/flexibility
+
+[164] Psychotherapist London | Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/bulimia/
+     Slug: services/bulimia
+
+[165] Sand Tray Therapy London | Jungian Sandplay Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/sand-tray-therap/
+     Slug: services/sand-tray-therap
+
+[166] Shiatsu London | Bodywork Therapy Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/shiatsu/
+     Slug: services/shiatsu
+
+[167] Sports Performance Coaching | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/athletes/
+     Slug: services/athletes
+
+[168] Stress at Work | Executive Coaching Dr Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/stress-at-work/
+     Slug: services/stress-at-work
+
+[169] Trading Psychology Coaching London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/trader-vs-gambler/
+     Slug: services/trader-vs-gambler
+
+[170] Weight Management Hypnotherapy London | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk//services/manage-your-weight/
+     Slug: services/manage-your-weight
+
+
+################################################################################
+# 46. SHADOW-WORK-JUNGIAN-INTRODUCTION
+################################################################################
+
+[171] PARENT PAGE
+     Title: Shadow Work: A Jungian Introduction | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/shadow-work-jungian-introduction/
+     Slug: shadow-work-jungian-introduction
+
+     (No submenu pages)
+
+################################################################################
+# 47. TAG
+################################################################################
+
+
+     SUBMENU PAGES (35)
+     ----------------------------------------------------------------------------
+
+[172] Chiron Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/chiron/
+     Slug: tag/chiron
+
+[173] HALT Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/halt/
+     Slug: tag/halt
+
+[174] HALT recovery Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/halt-recovery/
+     Slug: tag/halt-recovery
+
+[175] Harley Street Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/harley-street/
+     Slug: tag/harley-street
+
+[176] Jungian analysis Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/jungian-analysis/
+     Slug: tag/jungian-analysis
+
+[177] PROMIS Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/promis/
+     Slug: tag/promis
+
+[178] RELAPSE acronym Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/relapse-acronym/
+     Slug: tag/relapse-acronym
+
+[179] addiction recovery Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/addiction-recovery/
+     Slug: tag/addiction-recovery
+
+[180] addiction supervision Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/addiction-supervision/
+     Slug: tag/addiction-supervision
+
+[181] analytical psychology Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/analytical-psychology/
+     Slug: tag/analytical-psychology
+
+[182] body image Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/body-image/
+     Slug: tag/body-image
+
+[183] clinical supervision Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/clinical-supervision/
+     Slug: tag/clinical-supervision
+
+[184] depth psychology Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/depth-psychology/
+     Slug: tag/depth-psychology
+
+[185] eating disorder recovery Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/eating-disorder-recovery/
+     Slug: tag/eating-disorder-recovery
+
+[186] eating disorder supervision Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/eating-disorder-supervision/
+     Slug: tag/eating-disorder-supervision
+
+[187] eating disorder therapy Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/eating-disorder-therapy/
+     Slug: tag/eating-disorder-therapy
+
+[188] eating disorder treatment Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/eating-disorder-treatment/
+     Slug: tag/eating-disorder-treatment
+
+[189] executive coaching Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/executive-coaching/
+     Slug: tag/executive-coaching
+
+[190] first year sober Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/first-year-sober/
+     Slug: tag/first-year-sober
+
+[191] gratitude in recovery Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/gratitude-in-recovery/
+     Slug: tag/gratitude-in-recovery
+
+[192] impostor syndrome Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/impostor-syndrome/
+     Slug: tag/impostor-syndrome
+
+[193] leadership Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/leadership/
+     Slug: tag/leadership
+
+[194] life after rehab Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/life-after-rehab/
+     Slug: tag/life-after-rehab
+
+[195] managing emotions Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/managing-emotions/
+     Slug: tag/managing-emotions
+
+[196] organisational psychology Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/organisational-psychology/
+     Slug: tag/organisational-psychology
+
+[197] psychological relapse Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/psychological-relapse/
+     Slug: tag/psychological-relapse
+
+[198] psychotherapy supervision Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/psychotherapy-supervision/
+     Slug: tag/psychotherapy-supervision
+
+[199] recovery tips Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/recovery-tips/
+     Slug: tag/recovery-tips
+
+[200] relapse Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/relapse/
+     Slug: tag/relapse
+
+[201] relapse prevention Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/relapse-prevention/
+     Slug: tag/relapse-prevention
+
+[202] shame in recovery Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/shame-in-recovery/
+     Slug: tag/shame-in-recovery
+
+[203] sobriety Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/sobriety/
+     Slug: tag/sobriety
+
+[204] supervision London Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/supervision-london/
+     Slug: tag/supervision-london
+
+[205] therapist supervision Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/therapist-supervision/
+     Slug: tag/therapist-supervision
+
+[206] wounded healer Archives - Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/tag/wounded-healer/
+     Slug: tag/wounded-healer
+
+
+################################################################################
+# 48. TALK-THERAPY-FOR-DEPRESSION
+################################################################################
+
+[207] PARENT PAGE
+     Title: Talk Therapy for Depression London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/talk-therapy-for-depression/
+     Slug: talk-therapy-for-depression
+
+     (No submenu pages)
+
+################################################################################
+# 49. THERAPIE-PAR-LA-PAROLE-POUR-LA-DEPRESSION
+################################################################################
+
+[208] PARENT PAGE
+     Title: Thérapie par la Parole pour la Dépression à Londres | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/therapie-par-la-parole-pour-la-depression/
+     Slug: therapie-par-la-parole-pour-la-depression
+
+     (No submenu pages)
+
+################################################################################
+# 50. TRAUMA-THERAPY-LONDON
+################################################################################
+
+[209] PARENT PAGE
+     Title: Trauma Therapy London | Philippe Jacquet & Associates
+     URL: https://www.philippejacquet.co.uk/trauma-therapy-london/
+     Slug: trauma-therapy-london
+
+     (No submenu pages)
+
+################################################################################
+# 51. WHAT-JUNGIAN-THERAPY-LOOKS-LIKE
+################################################################################
+
+[210] PARENT PAGE
+     Title: What Jungian Therapy Looks Like in Practice | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/what-jungian-therapy-looks-like/
+     Slug: what-jungian-therapy-looks-like
+
+     (No submenu pages)
+
+################################################################################
+# 52. WHY-EXECUTIVES-SEEK-JUNGIAN-COACH
+################################################################################
+
+[211] PARENT PAGE
+     Title: Why Executives Seek a Jungian Coach | Philippe Jacquet
+     URL: https://www.philippejacquet.co.uk/why-executives-seek-jungian-coach/
+     Slug: why-executives-seek-jungian-coach
+
+     (No submenu pages)
+
+
+================================================================================
+SUMMARY BY CATEGORY
+================================================================================
+
+PARENT PAGES WITH SUBMENUS:
+  • Bermondsey Therapy Services: 9 submenus
+  • Blog: 1 submenus
+  • Brussels: 7 submenus
+  • Central London: 8 submenus
+  • Colchester: 10 submenus
+  • Harley Street: 5 submenus
+  • Marbella: 6 submenus
+  • Service: 50 submenus
+  • Services: 30 submenus
+  • Tag: 35 submenus
+
+PARENT PAGES WITHOUT SUBMENUS: 41
+
+
+================================================================================
+CRITICAL URLS FOR SEO PRESERVATION
+================================================================================
+
+MUST PRESERVE EXACTLY:
+  ✓ https://www.philippejacquet.co.uk/
+  ✓ https://www.philippejacquet.co.uk/harley-street/
+  ✓ https://www.philippejacquet.co.uk/harley-street/addiction-counselling/
+  ✓ https://www.philippejacquet.co.uk/harley-street/treatment-for-eating-disorders/
+  ✓ https://www.philippejacquet.co.uk/central-london/
+  ✓ https://www.philippejacquet.co.uk/addiction-specialist-london/
+  ✓ https://www.philippejacquet.co.uk/eating-disorder/
+  ✓ https://www.philippejacquet.co.uk/trauma-therapy-london/
+
+
+================================================================================
+LOCATION OFFICES DETAILS
+================================================================================
+
+
+🇬🇧 Harley Street, London W1
+  Main: Psychotherapy at Harley Street - Philippe Jacquet & Associates
+  URL: /harley-street/
+  Services: 5 submenus
+    • Addiction Counselling Harley Street | Lived Experience | Philippe Jacquet
+    • Eating Disorder Treatment Harley Street | Philippe Jacquet DProf
+    • Executive Coaching London | Philippe Jacquet & Associates
+    ... and 2 more
+
+🇬🇧 Central London
+  Main: Psychotherapy Central London | Philippe Jacquet & Associates
+  URL: /central-london/
+  Services: 8 submenus
+    • Addiction Counselling London | Philippe Jacquet & Associates
+    • Art Therapy Central London | Philippe Jacquet
+    • Eating Disorder Treatment Central London | Philippe Jacquet
+    ... and 5 more
+
+🇬🇧 Colchester, Essex
+  Main: Psychotherapy Colchester Essex | Philippe Jacquet & Associates
+  URL: /colchester/
+  Services: 10 submenus
+    • Addiction Counselling Colchester | Philippe Jacquet
+    • Bereavement Counselling Colchester | Philippe Jacquet
+    • Clinical Supervision Colchester | Jungian Analyst | Philippe Jacquet
+    ... and 7 more
+
+🇧🇪 Brussels, Belgium
+  Main: English-Speaking Psychologist Brussels | Philippe Jacquet
+  URL: /brussels/
+  Services: 7 submenus
+    • Addiction Counselling Brussels | Philippe Jacquet
+    • Anxiety & Depression Therapy Brussels | Philippe Jacquet
+    • Bereavement Therapy Brussels | Philippe Jacquet
+    ... and 4 more
+
+🇪🇸 Marbella, Spain
+  Main: Psychotherapist Marbella Spain | Philippe Jacquet & Associates
+  URL: /marbella/
+  Services: 6 submenus
+    • Coaching exécutif — Maximiser le potentiel | Philippe Jacquet
+    • Counselling Marbella | Philippe Jacquet
+    • Life Coaching Marbella | Philippe Jacquet
+    ... and 3 more
+
+
+================================================================================
+FILE INFORMATION
+================================================================================
+
+Generated: 2026-04-30
+Source: www.philippejacquet.co.uk (full extraction)
+Format: Complete text document
+Content: All 212 English pages with full details
+Purpose: Website rebuild reference & SEO preservation
+
+DOWNLOAD FROM:
+https://stage.g-myths.com/MASTER_COMPLETE_ORGANIGRAM.txt
+
+================================================================================
+END OF MASTER ORGANIGRAM
+================================================================================
