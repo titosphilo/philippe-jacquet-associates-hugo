@@ -3,6 +3,10 @@ title: "Therapy at Harley Street"
 url: "/harley-street/"
 layout: "location"
 type: "page"
+top_image: "/images/locations/harley-street/locality.jpg"
+top_image_alt: "Harley Street, London W1 — exterior of the Philippe Jacquet practice"
+bottom_image: "/images/locations/harley-street/calm.jpg"
+bottom_image_alt: "Considered, contemplative therapeutic space"
 draft: false
 ---
 

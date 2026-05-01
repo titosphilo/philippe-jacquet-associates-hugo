@@ -3,8 +3,10 @@ title: "Therapist in Bermondsey, SE1"
 url: "/bermondsey/"
 layout: "location"
 type: "page"
-top_image: ""
-bottom_image: ""
+top_image: "/images/locations/bermondsey/locality.jpg"
+top_image_alt: "Bermondsey, SE1 — the South London location of the practice"
+bottom_image: "/images/locations/bermondsey/calm.jpg"
+bottom_image_alt: "Considered, contemplative therapeutic space"
 draft: false
 ---
 
