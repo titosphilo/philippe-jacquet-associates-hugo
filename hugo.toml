@@ -11,6 +11,9 @@ disableKinds = ["taxonomy", "term"]
 [markup.goldmark.renderer]
   unsafe = true
 
+[frontmatter]
+  lastmod = [":fileModTime", ":default"]
+
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
