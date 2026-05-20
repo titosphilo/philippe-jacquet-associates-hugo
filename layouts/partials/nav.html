@@ -6,7 +6,7 @@
     <span>{{ site.Params.phone }}</span>
   </div>
   <div class="site-header-inner nav">
-    <a class="brand" href="{{ site.Home.RelPermalink }}" aria-label="Philippe Jacquet & Associates home">
+    <a class="brand" href="{{ site.Params.path_prefix }}/" aria-label="Philippe Jacquet & Associates home">
       <span>Philippe Jacquet</span>
       <small>& Associates</small>
     </a>
@@ -17,11 +17,11 @@
         {{ range $nav.primary }}
         {{ if or site.Params.enable_french_links (not (strings.HasPrefix .url "/fr/")) }}
         <li class="{{ if .children }}has-dropdown{{ end }}">
-          <a href="{{ .url }}"{{ if .children }} aria-haspopup="true" aria-expanded="false"{{ end }}>{{ .label }}</a>
+          <a href="{{ site.Params.path_prefix }}{{ .url }}"{{ if .children }} aria-haspopup="true" aria-expanded="false"{{ end }}>{{ .label }}</a>
           {{ with .children }}
           <ul class="dropdown">
             {{ range . }}
-            <li><a href="{{ .url }}">{{ .label }}</a></li>
+            <li><a href="{{ site.Params.path_prefix }}{{ .url }}">{{ .label }}</a></li>
             {{ end }}
           </ul>
           {{ end }}

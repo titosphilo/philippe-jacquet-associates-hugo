@@ -14,7 +14,8 @@ image_break: "/images/abstract-light-wall.jpg"
 image_break_alt: "Lumiere et ombre abstraites sur un mur architectural pale"
 hero:
   eyebrow: "Harley Street - Mayfair - Bermondsey - En ligne"
-  intro: "Philippe Jacquet & Associates propose une psychotherapie integrative, un travail analytique jungien, le traitement des troubles alimentaires et l'hypnotherapie au coeur de Londres et a l'international. Plus de vingt ans d'experience clinique, une expertise de niveau doctoral et un accompagnement prive discret."
+  intro:
+    - "Philippe Jacquet & Associates propose une psychotherapie integrative, un travail analytique jungien, le traitement des troubles alimentaires et l'hypnotherapie au coeur de Londres et a l'international. Plus de vingt ans d'experience clinique, une expertise de niveau doctoral et un accompagnement prive discret."
   primary_cta:
     label: "Prendre rendez-vous"
     url: "/fr/contact/"

@@ -3,12 +3,99 @@ title: "Psychotherapy Monaco | Private Bilingual Practice | Dr Philippe Jacquet"
 slug: "monaco"
 url: "/monaco/"
 meta_title: "Psychotherapy Monaco | Private Bilingual Practice | Dr Philippe Jacquet"
-description: "Psychotherapy Monaco | Private Bilingual Practice | Dr Philippe Jacquet"
-layout: "service"
-type: "service"
-draft: false
+description: "Specialist psychotherapy for private clients in Monaco. Bilingual English and French. Addiction, eating disorders, trauma, executive burnout. Harley Street credentials. Fully confidential video sessions."
+h1: "Specialist Psychotherapy in Monaco — Private Bilingual Practice"
+layout: "location"
+type: "location"
+top_image: "/images/locations/monaco/locality.jpg"
+top_image_alt: "Monaco — private bilingual practice"
+bottom_image: "/images/locations/monaco/calm.jpg"
+bottom_image_alt: "Monaco therapy space"
+submenu_heading: "Specialist Services in Monaco"
+submenu_links:
+  - title: "Addiction Treatment"
+    url: "/monaco/"
+  - title: "Eating Disorders"
+    url: "/monaco/"
+  - title: "Trauma & EMDR"
+    url: "/monaco/"
+  - title: "Executive Coaching"
+    url: "/monaco/"
+related_locations:
+  - title: "Harley Street"
+    url: "/harley-street/"
+    text: "London W1"
+  - title: "Paris"
+    url: "/psychotherapist-paris/"
+    text: "France"
+  - title: "Marbella"
+    url: "/marbella/"
+    text: "Costa del Sol"
+  - title: "Dubai"
+    url: "/dubai/"
+    text: "Middle East"
+  - title: "Brussels"
+    url: "/brussels/"
+    text: "Belgium"
 ---
+# Specialist Psychotherapy in Monaco — Private Bilingual Practice
 
-This page preserves the canonical URL from the master organigram.
+Monaco creates a particular set of conditions. The Principality is one of the most visible communities in the world — a place where professional reputation, social position and private life are unusually compressed. Anonymity, which most cities provide as a matter of course, is almost entirely absent. And the community is small enough that the question of who knows whom is never far from mind.
 
+For people living or working in Monaco, seeking psychological support requires a practitioner who understands this context without being part of it — someone whose practice is completely separate from the Monegasque social world, whose confidentiality is structural rather than merely promised, and whose clinical credentials are not in question.
 
+Philippe Jacquet and Associates offers exactly that. The practice is based in London, with 25 years of clinical work on Harley Street. Sessions for Monaco clients are conducted by secure encrypted video — in English or French — giving complete discretion without the exposure that local services inevitably carry.
+
+## A Bilingual Practice — English and French
+
+A significant proportion of Monaco’s resident population is French-speaking — French nationals, Swiss, Belgian and Monegasque residents, and the substantial European financial and business community based in and around the Principality. Finding a senior clinician who can conduct psychotherapy at depth in French, with full European qualifications and a Harley Street practice behind them, is genuinely rare.
+
+Philippe Jacquet practises in both English and French. This is not a translation service — it is clinical work conducted in the client’s language of greatest fluency and emotional access. For complex presentations — addiction, trauma, eating disorders — language matters more than it may appear.
+
+## What This Practice Works With
+
+**Addiction** — Alcohol, cocaine, prescription dependency, gambling. Philippe Jacquet trained at the Hazelden Foundation and has over 25 years of specialist addiction work. This includes presentations that are highly functional externally — where the dependency is significant but the professional life remains intact, creating a particular clinical complexity.
+
+**Eating disorders** — Including presentations in high-achieving adults where eating, weight and control have become organised around performance and visibility pressures. Philippe Jacquet holds a Doctorate of Professional Practice and is the only clinician in Europe to have completed doctoral research specifically on male eating disorders.
+
+**Trauma and EMDR** — Complex and single-incident trauma. Philippe Jacquet is EMDR Europe accredited at the highest level with more than 20 years of trauma-focused clinical practice.
+
+**Executive exhaustion and identity** — The particular depletion and disorientation that follows sustained high performance — including the experience of having achieved what was wanted, and finding it does not answer the deeper question. Jungian analysis addresses this territory with a precision that other frameworks rarely match.
+
+**Depression and anxiety** — Including longstanding presentations and those that have not responded well to previous treatment.
+
+## Confidentiality — Absolute and Structural
+
+Sessions are conducted by encrypted video link. There is no clinic reception, no shared waiting room, no institutional connection to Monaco’s professional or social community. The work takes place between client and practitioner, in a space that is entirely separate from the Principality’s social geography.
+
+For clients in Monaco, Cap-d’Ail, Beausoleil, Menton or the surrounding Côte d’Azur, this structure makes it possible to seek the level of support the situation actually requires — without the exposure that local services carry.
+
+## Philippe Jacquet — Qualifications
+
+Integrative psychotherapist and Jungian analyst. 25 years of clinical practice on Harley Street, London. EMDR Europe accredited at the highest level. Hazelden Foundation trained — addiction specialisation. Doctorate of Professional Practice. Trained art psychotherapist. Bilingual clinical practice in English and French.
+
+Pour les clients à Monaco et sur la Côte d’Azur — consultations en anglais et en français, entièrement confidentielles.
+
+[Prendre Contact](/contacts/)
+
+Dr Jacquet served as clinical supervisor at **Promis Recovery Center** — one of the UK’s most prestigious private addiction clinics, with units in London and Kent — for over five years, overseeing their entire clinical team. He has also supervised the clinical team at the **Cardinal Psychiatry Unit**. This level of institutional responsibility is rare in private practice and speaks directly to the seniority and clinical depth he brings to individual client work.
+
+## Lived Experience — Addiction and Eating Disorders
+
+Philippe Jacquet brings to this work something that no qualification alone can provide: personal lived experience of both addiction and eating disorders. He is in long-term recovery. That experience — alongside Hazelden Foundation training, over 25 years of specialist clinical practice, and clinical supervision roles at PROMIS Recovery Centre and Cardinal Clinic — gives this work a depth of understanding that is genuinely rare in a practitioner at this level.
+
+The Hazelden model has always recognised that lived experience in recovery is not incidental to clinical expertise — it is constitutive of it. A practitioner who has faced these difficulties personally brings a quality of understanding that goes beyond clinical knowledge: they know what is actually happening inside the experience, what the pull of the substance or behaviour feels like, what the moment of genuine recognition looks like, and what makes the difference between treatment that touches the real problem and treatment that does not.
+
+This is not offered as biography. It is offered as the clinical context that explains why the work in this practice reaches where it does.
+
+n\{“@context”:”https://schema.org”,”@type”:”FAQPage”,”mainEntity”:\[\{“@type”:”Question”,”name”:”Why are high achievers particularly vulnerable to addiction?”,”acceptedAnswer”:\{“@type”:”Answer”,”text”:”High achievers and addicts are often made from the same wood. To reach the top in business or sport requires obsession, compulsion, and a certain egocentrism — the total focus on me and my project. Addiction works identically. What separates the high achiever from the addict is not the psychology — it is where the path leads. The high achiever’s obsession produces recognition, respect and social validation. The addict’s produces self-loathing, stigma and isolation. This is why it happens so regularly that someone who has climbed every step of professional success turns toward substances — they are seeking the same intensity through a different door.”\}\},\{“@type”:”Question”,”name”:”Can I maintain my professional reputation while getting treatment?”,”acceptedAnswer”:\{“@type”:”Answer”,”text”:”A good residential programme will do everything possible to protect your anonymity. But if you are in the public eye, you are already under scrutiny before you arrive. And the group setting carries its own risk — you are in treatment alongside other people, and that shared space carries an inherent exposure that individual work does not. One-to-one specialist treatment is often safer and more discreet. That said, residential treatment sometimes becomes essential — if your health is medically compromised and you require clinical supervision through a severe detox, that need takes precedence. One-to-one specialist work and residential treatment are not opposites. They serve different situations, and sometimes they work in sequence.”\}\}\]\}n
+
+## Frequently Asked Questions
+
+### Why are high achievers particularly vulnerable to addiction?
+
+High achievers and addicts are often made from the same wood. To reach the top in business or sport requires obsession, compulsion, and a certain egocentrism — the total focus on me and my project. Addiction works identically. What separates the high achiever from the addict is not the psychology — it is where the path leads. The high achiever’s obsession produces recognition, respect and social validation. The addict’s produces self-loathing, stigma and isolation. This is why it happens so regularly that someone who has climbed every step of professional success turns toward substances — they are seeking the same intensity through a different door.
+
+### Can I maintain my professional reputation while getting treatment?
+
+A good residential programme will do everything possible to protect your anonymity. But if you are in the public eye, you are already under scrutiny before you arrive. And the group setting carries its own risk — you are in treatment alongside other people, and that shared space carries an inherent exposure that individual work does not. One-to-one specialist treatment is often safer and more discreet. That said, residential treatment sometimes becomes essential — if your health is medically compromised and you require clinical supervision through a severe detox, that need takes precedence. One-to-one specialist work and residential treatment are not opposites. They serve different situations, and sometimes they work in sequence.

@@ -1,0 +1,61 @@
+{{ $nav := index site.Data.navigation site.Language.Lang }}
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="site-header-inner nav">
+    <a class="brand" href="{{ site.Params.path_prefix }}/" aria-label="Philippe Jacquet & Associates home" title="Philippe Jacquet & Associates">
+      <svg class="brand-logo" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <text x="0" y="28" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#1a1a1a">PJA</text>
+      </svg>
+      <span class="brand-text">
+        <strong>Philippe Jacquet</strong>
+        <small>& Associates</small>
+      </span>
+    </a>
+    <input class="nav-toggle" id="nav-toggle" type="checkbox" aria-label="Toggle navigation">
+    <label class="nav-button" for="nav-toggle"><span></span></label>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <ul class="nav-menu">
+        {{ range $nav.primary }}
+        {{ if or site.Params.enable_french_links (not (strings.HasPrefix .url "/fr/")) }}
+        <li class="{{ if .children }}has-dropdown{{ end }}">
+          <a href="{{ site.Params.path_prefix }}{{ .url }}"{{ if .children }} aria-haspopup="true" aria-expanded="false"{{ end }}>{{ .label }}</a>
+          {{ with .children }}
+          <ul class="dropdown">
+            {{ range . }}
+            <li><a href="{{ site.Params.path_prefix }}{{ .url }}">{{ .label }}</a></li>
+            {{ end }}
+          </ul>
+          {{ end }}
+        </li>
+        {{ end }}
+        {{ end }}
+      </ul>
+    </nav>
+    <div class="header-actions">
+      <a href="tel:{{ replaceRE `[^0-9+]` `` site.Params.phone }}" class="contact-link" title="Call us">{{ site.Params.phone }}</a>
+      <a href="{{ site.Params.path_prefix }}/contacts/" class="cta-link">Book Now</a>
+    </div>
+    {{/* Language switcher temporarily hidden until French pages are ready.
+    <nav class="lang-switch" aria-label="Language switcher">
+      {{ range site.Languages }}
+        {{ $targetLang := .Lang }}
+        {{ $translation := "" }}
+        {{ range $.AllTranslations }}
+          {{ if eq .Language.Lang $targetLang }}
+            {{ $translation = . }}
+          {{ end }}
+        {{ end }}
+        {{ if $translation }}
+          <a href="{{ $translation.RelPermalink }}"{{ if eq $.Language.Lang $targetLang }} aria-current="page"{{ end }}>{{ upper $targetLang }}</a>
+        {{ else }}
+          {{ range site.Home.AllTranslations }}
+            {{ if eq .Language.Lang $targetLang }}
+              <a href="{{ .RelPermalink }}">{{ upper $targetLang }}</a>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </nav>
+    */}}
+  </div>
+</header>

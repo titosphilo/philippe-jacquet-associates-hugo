@@ -3,12 +3,99 @@ title: "Addiction Treatment Dubai | Bespoke Private | Lived Experience | Philipp
 slug: "dubai"
 url: "/dubai/"
 meta_title: "Addiction Treatment Dubai | Bespoke Private | Lived Experience | Philippe Jacquet"
-description: "Addiction Treatment Dubai | Bespoke Private | Lived Experience | Philippe Jacquet"
-layout: "service"
-type: "service"
-draft: false
+description: "Bespoke one-to-one addiction and eating disorder treatment for private clients in Dubai. Philippe Jacquet brings personal lived experience of recovery, Hazelden training, and 25 years specialist practice. No rehab."
+h1: "Specialist Addiction and Eating Disorder Treatment in Dubai — Bespoke, Private, Without Rehab"
+layout: "location"
+type: "location"
+top_image: "/images/locations/dubai/locality.jpg"
+top_image_alt: "Dubai — specialist treatment without rehab"
+bottom_image: "/images/locations/dubai/calm.jpg"
+bottom_image_alt: "Dubai practice space"
+submenu_heading: "Services at Dubai"
+submenu_links:
+  - title: "Addiction Treatment"
+    url: "/dubai/"
+  - title: "Eating Disorders"
+    url: "/dubai/"
+  - title: "Trauma & EMDR"
+    url: "/dubai/"
+  - title: "Executive Coaching"
+    url: "/dubai/"
+related_locations:
+  - title: "Harley Street"
+    url: "/harley-street/"
+    text: "London W1"
+  - title: "Monaco"
+    url: "/monaco/"
+    text: "Côte d'Azur"
+  - title: "Marbella"
+    url: "/marbella/"
+    text: "Costa del Sol"
+  - title: "Nairobi"
+    url: "/nairobi-online-psychotherapy/"
+    text: "East Africa"
+  - title: "Paris"
+    url: "/psychotherapist-paris/"
+    text: "France"
 ---
+# Specialist Addiction and Eating Disorder Treatment in Dubai — Bespoke, Private, Without Rehab
 
-This page preserves the canonical URL from the master organigram.
+Residential rehab is not the only option. For high-net-worth individuals in Dubai — executives, entrepreneurs, family members — who are facing a serious problem with alcohol, substances, eating or behavioural addiction, the alternative to an institutional clinic is not willpower or self-help. It is specialist one-to-one clinical work delivered at the highest level, in complete confidentiality, without the exposure, the group settings, or the reputational risk that rehab carries.
 
+This is exactly what Philippe Jacquet offers. Based at Harley Street, London — with 25 years of specialist clinical practice in addiction and eating disorders — he works with private clients in Dubai by secure video, providing the clinical depth of the most rigorous addiction treatment in a fully bespoke one-to-one format. No institution. No waiting lists. No record that goes anywhere you have not chosen.
 
+## Why Bespoke Matters in Dubai
+
+Dubai is a city where professional reputation, social visibility and private life are unusually compressed. The business community is tight. The social world is visible. And the stigma attached to addiction — whether alcohol, cocaine, prescription medication, gambling or eating disorders — remains significant in a context where image and performance are everything.
+
+Going to a residential clinic means absence, disclosure and exposure. For many of the people who need specialist addiction help most urgently — senior executives in DIFC, founders, private wealth managers, family members of HNWI clients — that path is simply not viable. What they need is a practitioner who can deliver the same clinical rigour in a completely private one-to-one setting, on their schedule, in their timezone, without anyone else knowing.
+
+## The Specialism — Addiction and Eating Disorders
+
+Philippe Jacquet is a specialist in two areas that frequently co-occur and that are routinely undertreated in high-achieving populations: addiction and eating disorders. His training at the Hazelden Foundation — the international benchmark in addiction treatment — combined with over 25 years of specialist clinical practice, gives him a depth of expertise in these areas that most generalist therapists in Dubai cannot offer.
+
+For over five years he has supervised the clinical teams at PROMIS Recovery Centre — one of the UK’s most prestigious residential addiction clinics, with units in London and Kent — and at Cardinal Clinic, a private psychiatric hospital rated Outstanding by the Care Quality Commission. He brings that institutional-level clinical depth to entirely private, one-to-one work.
+
+**Alcohol dependency** — including high-functioning presentations where professional life appears intact but the relationship with alcohol has crossed a line that cannot be managed privately. This is one of the most common presentations in high-achieving professional communities worldwide.
+
+**Cocaine and stimulant addiction** — particularly in performance-driven environments where use has become structurally embedded in professional functioning. The clinical complexity here is significant and requires a practitioner who understands the full picture.
+
+**Eating disorders in adults** — anorexia, bulimia, binge eating, compulsive exercise. Philippe Jacquet holds a Doctorate of Professional Practice and is the only clinician in Europe to have completed doctoral research specifically on male eating disorders — a presentation that is routinely missed in high-achieving men.
+
+**Prescription medication dependency** — benzodiazepines, opioids, sleep medication, stimulants prescribed for focus or performance. A growing area of unacknowledged clinical need among professionals in high-pressure environments.
+
+**Gambling and behavioural addictions** — including the patterns of compulsive trading, gambling, sex addiction and process addictions that increasingly affect high-earning individuals with access, anonymity and pressure.
+
+## How It Works
+
+Sessions are conducted by encrypted video from Dubai — scheduled around the client’s calendar, respecting Gulf Standard Time. The format is fully one-to-one. There are no groups, no shared records, no institutional involvement. Sessions are conducted in English or French.
+
+The starting point is a single initial consultation — sixty minutes — to assess the clinical picture and determine whether this is the right fit. There is no obligation beyond that first conversation. Referrals from family members, GPs or private wealth advisors are welcomed.
+
+## Philippe Jacquet — Qualifications
+
+Integrative psychotherapist and Jungian analyst. Addiction and eating disorder specialist. Hazelden Foundation trained. Over 25 years of clinical practice at Harley Street, London. EMDR Europe accredited at the highest level. Doctorate of Professional Practice — Europe’s only DProf on male eating disorders. Clinical supervisor to PROMIS Recovery Centre \(London and Kent\) and Cardinal Clinic \(Windsor, CQC Outstanding\). Bilingual practice in English and French.
+
+For private clients in Dubai requiring specialist addiction or eating disorder treatment — fully bespoke one-to-one, without rehab, completely confidential. English and French.
+
+[Request a Confidential Consultation](/contacts/)
+
+## Lived Experience — Addiction and Eating Disorders
+
+Philippe Jacquet brings to this work something that no qualification alone can provide: personal lived experience of both addiction and eating disorders. He is in long-term recovery. That experience — alongside Hazelden Foundation training, over 25 years of specialist clinical practice, and clinical supervision roles at PROMIS Recovery Centre and Cardinal Clinic — gives this work a depth of understanding that is genuinely rare in a practitioner at this level.
+
+The Hazelden model has always recognised that lived experience in recovery is not incidental to clinical expertise — it is constitutive of it. A practitioner who has faced these difficulties personally brings a quality of understanding that goes beyond clinical knowledge: they know what is actually happening inside the experience, what the pull of the substance or behaviour feels like, what the moment of genuine recognition looks like, and what makes the difference between treatment that touches the real problem and treatment that does not.
+
+This is not offered as biography. It is offered as the clinical context that explains why the work in this practice reaches where it does.
+
+n\{“@context”:”https://schema.org”,”@type”:”FAQPage”,”mainEntity”:\[\{“@type”:”Question”,”name”:”Can I recover from addiction without going to rehab?”,”acceptedAnswer”:\{“@type”:”Answer”,”text”:”Recovery takes many paths. Over 25 years I have worked with people carrying enormous professional responsibility — senior executives, business owners, parents — who could not walk away from their lives for weeks to enter a residential programme. Intensive, consistent one-to-one specialist work can help people achieve real and lasting recovery. But the most important thing to understand is this: recovery is a marathon, not a sprint. Long-term recovery requires long-term work, addressing the underlying psychological issues, building emotional regulation, and processing the trauma that the addiction was managing in the first place.”\}\},\{“@type”:”Question”,”name”:”How is seeing an addiction specialist different from going to rehab?”,”acceptedAnswer”:\{“@type”:”Answer”,”text”:”One-to-one specialist treatment offers privacy, flexibility, and clinical depth without requiring you to leave your life. There is no group setting, no shared record, no institutional exposure. Sessions work around your schedule and timezone. For many people in senior professional or public positions, this is not a preference but a clinical necessity. That said, residential rehab sometimes becomes essential — if your health is medically compromised and you need clinical support through a severe detox, that need takes precedence. The right tool depends on the clinical situation.”\}\}\]\}n
+
+## Frequently Asked Questions
+
+### Can I recover from addiction without going to rehab?
+
+Recovery takes many paths. Over 25 years I have worked with people carrying enormous professional responsibility — senior executives, business owners, parents — who could not walk away from their lives for weeks to enter a residential programme. Intensive, consistent one-to-one specialist work can help people achieve real and lasting recovery. But the most important thing to understand is this: recovery is a marathon, not a sprint. Long-term recovery requires long-term work, addressing the underlying psychological issues, building emotional regulation, and processing the trauma that the addiction was managing in the first place.
+
+### How is seeing an addiction specialist different from going to rehab?
+
+One-to-one specialist treatment offers privacy, flexibility, and clinical depth without requiring you to leave your life. There is no group setting, no shared record, no institutional exposure. Sessions work around your schedule and timezone. For many people in senior professional or public positions, this is not a preference but a clinical necessity. That said, residential rehab sometimes becomes essential — if your health is medically compromised and you need clinical support through a severe detox, that need takes precedence. The right tool depends on the clinical situation.

@@ -1,0 +1,4 @@
+<a class="service-card" href="{{ .url }}" aria-label="{{ .title }}">
+  <h3>{{ .title }}</h3>
+  {{ with .text }}<p>{{ . }}</p>{{ end }}
+</a>

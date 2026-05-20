@@ -1,0 +1,42 @@
+baseURL = "https://stage.g-myths.com/preview/07-all-hubs/"
+title = "Philippe Jacquet & Associates"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[build]
+  writeStats = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.8
+
+[params]
+  phone = "+44 03333 392430"
+  email = "info@philippejacquet.co.uk"
+  address = "Harley Street, London W1"
+  social_image = "/images/philippe-jacquet-associates-og.jpg"
+  enable_french_links = false
+
+  [params.images]
+    top_contextual = "/images/harley-street-practice.jpg"
+    top_contextual_alt = "Harley Street psychotherapy practice"
+    bottom_abstract = "/images/abstract-light-wall.jpg"
+    bottom_abstract_alt = "Abstract light and shadow on a quiet interior wall"
+
+[languages]
+  [languages.en]
+    languageCode = "en-gb"
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 1
+  [languages.fr]
+    languageCode = "fr-fr"
+    languageName = "Français"
+    contentDir = "content/fr"
+    weight = 2
