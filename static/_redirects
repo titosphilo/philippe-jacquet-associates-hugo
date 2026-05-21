@@ -1,3 +1,8 @@
+# ============================================================
+# philippejacquet.co.uk — Full Redirect Map (May 2026)
+# ============================================================
+
+# --- Previously fixed ---
 /expert-sex-therapist-edinburgh/ /locations/harley-street/sex-addiction/ 301
 /leadership-coaching-uk/ /service/executive-coaching/ 301
 /find-a-specialist-anxiety-therapist-london/ /service/psychotherapy/ 301
@@ -7,3 +12,79 @@
 /fr/nairobi/alcoolisme/ /fr/locations/nairobi-online-psychotherapy/ 301
 /fr/a-quoi-ressemble-therapie-jungienne/ /fr/service/psychotherapie/ 301
 /fr/conseil-pour-lutter-contre-lanorexie/ /fr/locations/harley-street/ 301
+
+# --- Wildcard: /francais/ -> /fr/ (catches all old French paths) ---
+/francais/* /fr/:splat 301
+
+# --- Wildcard: /fr/services/ -> /fr/service/ ---
+/fr/services/* /fr/service/ 301
+/fr/services_group/* /fr/service/ 301
+
+# --- Old /services/*.html -> specific new pages ---
+/services/hypnotherapy.html /service/hypnotherapy/ 301
+/services/counselling.html /service/counselling/ 301
+/services/art-therapy.html /service/art-therapy-in-central-london/ 301
+/services/professional-art-therapy.html /service/art-therapy-in-central-london/ 301
+/services/sand-tray-therapy.html /service/art-therapy-in-central-london/ 301
+/services/body-work.html /service/body-work/ 301
+/services/yoga.html /service/body-work/ 301
+/services/shiatsu.html /service/body-work/ 301
+/services/trauma.html /service/counselling/trauma-therapy-london/ 301
+/services/phobias.html /service/hypnotherapy-what-you-should-know/phobias/ 301
+/services/public-speaking.html /service/hypnotherapy-what-you-should-know/public-speaking/ 301
+/services/anorexia.html /locations/harley-street/eating-disorder-treatment/ 301
+/services/overeating.html /locations/harley-street/eating-disorder-treatment/ 301
+/services/sex-addiction.html /locations/harley-street/sex-addiction/ 301
+/services/addictive-personality.html /service/counselling/ 301
+/services/cocaine.html /service/counselling/ 301
+/services/stress.html /service/counselling/ 301
+/services/middle-ages-crisis.html /service/counselling/ 301
+/services/middle-age-crisis/* /service/counselling/ 301
+/services/child-psychotherapy.html /service/psychotherapy/ 301
+
+# --- Old Harley Street .html paths ---
+/harley-street/fees-and-terms.html /locations/harley-street/fees-and-terms/ 301
+/harley-street/art-therapy.html /locations/harley-street/art-therapy/ 301
+/harley-street/hypnotherapy.php /locations/harley-street/clinical-hypnotherapy/ 301
+
+# --- Old Central London .html paths ---
+/central-london/hypnotherapy.html /locations/central-london/ 301
+/central-london/addiction-counselling.html /locations/central-london/ 301
+/central-london/eating-disorders.html /locations/central-london/ 301
+/central-london/executive-coaching.html /service/executive-coaching/ 301
+/central-london/trauma.html /service/counselling/trauma-therapy-london/ 301
+
+# --- Old Colchester paths ---
+/colchester/analysis.html /locations/colchester/ 301
+/colchester/stress.html /locations/colchester/stress/ 301
+/colchester/eating_disorders.html /locations/colchester/ 301
+/colchester/sex_addiction.html /locations/colchester/ 301
+
+# --- Old Brussels paths ---
+/brussels/eating-disorder-counselling.html /locations/brussels/ 301
+/brussels/sex-addiction-counselling.html /locations/brussels/ 301
+/brussels/addiction-counselling.html /locations/brussels/addiction-counselling/ 301
+
+# --- Old Nairobi & Paris paths ---
+/nairobi-online-psychotherapy/alcoholism.html /locations/nairobi-online-psychotherapy/ 301
+/paris/treatments-for-eating-disorders.html /locations/psychotherapist-paris/ 301
+
+# --- Old French blog/misc paths ---
+/fr/blog/7/ /fr/blog/ 301
+/fr/fr-blog/ /fr/blog/ 301
+/fr/trouble-comportement-alimentaire/ /fr/locations/harley-street/ 301
+/fr/monaco/consultation-troubles-alimentaire/ /fr/locations/monaco/ 301
+/fr/brussels/addiction-conseil /fr/locations/brussels/ 301
+/fr/testimonials_group/* / 301
+
+# --- Old blog /post/ paths ---
+/blog/post/* /blog/ 301
+/blog/7/ /blog/ 301
+
+# --- Old blog paths ---
+/about-us.html / 301
+/mayfair/ /locations/harley-street/ 301
+/events/ / 301
+/layouts/* / 301
+/fr/layouts/* /fr/ 301
+/team/* / 301
